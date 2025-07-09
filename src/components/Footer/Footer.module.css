@@ -6,7 +6,7 @@
   text-align: center;
 }
 
-a {
-  color: hsl(0deg, 100%, 100%)
+.footer a {
+  color: inherit;
 }
 
